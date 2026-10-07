@@ -26,7 +26,6 @@ A compact custom-designed mini keyboard featuring **4 mechanical-style switches*
 * LEDs
 * 3D-printed enclosure
 * USB connection
-
 ## 📁 Project Files
 
 * `PCB/` – PCB design files
